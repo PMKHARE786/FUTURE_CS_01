@@ -2,7 +2,7 @@
 
 ## Prepared By
 
-**Kunal Bhalerao Baviskar**
+**PRASHANT MADHUKAR KHARE**
 
 ---
 
@@ -89,4 +89,4 @@ This project was performed for educational purposes only using passive and ethic
 
 ### Author
 
-**Kunal Bhalerao Baviskar**
+**PRASHANT MADHUKAR KHARE**
